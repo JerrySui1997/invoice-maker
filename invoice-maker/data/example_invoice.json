@@ -1,0 +1,36 @@
+{
+  "invoice_number": "0001",
+  "invoice_date": "2026-07-01",
+  "rate_type": "Daily",
+  "currency": "AUD",
+  "rate": 400.0,
+  "work_start_date": "2026-06-22",
+  "work_end_date": "2026-06-26",
+  "comments": "Thank you!",
+  "line_items": [
+    {
+      "date": "2026-06-22",
+      "project": "GOV",
+      "episode": "101",
+      "description": "Animation - scene blocking",
+      "sick_vacation_hrs": 0,
+      "hours_worked": 1
+    },
+    {
+      "date": "2026-06-23",
+      "project": "GOV",
+      "episode": "101",
+      "description": "Animation - polish",
+      "sick_vacation_hrs": 0,
+      "hours_worked": 1
+    },
+    {
+      "date": "2026-06-24",
+      "project": "KOG",
+      "episode": "102",
+      "description": "Storyboard revisions",
+      "sick_vacation_hrs": 0,
+      "hours_worked": 0.5
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "business": {
+    "company": "",
+    "name": "Jie Lin Sui",
+    "abn": "",
+    "address": "Unit 311, Lane 2729 Hunangonglu, Pudong Xinqu, Shanghai, 201315",
+    "email": "",
+    "phone": "0478 112 569 / +86 189 1739 0092"
+  },
+  "payment": {
+    "bank_name": "Commonwealth Bank of Australia",
+    "account_name": "Jie Lin Sui",
+    "account_number": "11277448",
+    "swift_code": "CTBAAU2S",
+    "bsb": "063182",
+    "routing_number": "",
+    "iban": "",
+    "paypal_email": "",
+    "bank_branch_address": ""
+  },
+  "bill_to": {
+    "name": "Glitch Productions",
+    "address_lines": [
+      "12/32 Phillip Street",
+      "Parramatta, NSW, 2150",
+      "Australia"
+    ]
+  },
+  "gst": {
+    "registered": false,
+    "rate_percent": 10
+  },
+  "preset": {
+    "enabled": true,
+    "state": "VIC",
+    "exclude_weekends": true,
+    "exclude_public_holidays": true,
+    "rate_type": "Daily",
+    "currency": "AUD",
+    "rate": 409.23,
+    "period_rate": 4433.33,
+    "hours_per_day": 1,
+    "default_project": "",
+    "default_episode": "",
+    "default_description": "Render Technology",
+    "invoice_number_prefix": "RCS-",
+    "comments": ""
+  },
+  "output_dir": "invoices"
+}

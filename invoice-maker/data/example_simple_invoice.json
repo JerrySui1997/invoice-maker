@@ -1,0 +1,30 @@
+{
+  "template": "simple",
+  "vendor": {
+    "name": "Jane Vendor",
+    "email": "jane@example.com"
+  },
+  "invoice_number": "JV2026-001",
+  "date_due": "2026-09-01",
+  "pay_method": "ACH / Wire / CC",
+  "payment_link_text": "Payment",
+  "payment_link_url": "",
+  "installment": {
+    "current": 1,
+    "total": 1,
+    "label": ""
+  },
+  "items": [
+    {
+      "description": "3D Character Model",
+      "credit": "",
+      "qty": 1,
+      "unit_price": 600,
+      "total": 600,
+      "current_due": 600
+    }
+  ],
+  "currency": "USD",
+  "note": "This invoice pertains to artwork for use in accordance to agreed Terms of Service.",
+  "closing": "Thank you!"
+}
